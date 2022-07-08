@@ -22,11 +22,13 @@ Education
 Experience
 ======
 * Research Assistant, Jan. 2022 -Present
-  * ASU
+  * Natural Language Processing
+  * At ASU
   * Supervisor: Dr. Eduardo Blanco
 
-* Research Assistant, June 2019 - May 2020   
-  * ASU
+* Research Assistant, June 2020 - May 2021   
+  * Deep learning with database system
+  * At ASU
   * Supervisor: Dr. Jia Zou
   
 
