@@ -20,6 +20,19 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 
 Conference publications
 =====
+2023
+----
+
+**Zijie Wang** , Md Mosharaf Hossain, Shivam Mathur, Terry Cruz Melo, Kadir Bulut Ozler, Keun Hee Park, Jacob Quintero, MohammadHossein Rezaei, Shreya Nupur Shakya, Md Nayem Uddin, and Eduardo Blanco. 2023. Interpreting Indirect Answers to Yes-No Questions in Multiple Languages. In Findings of the Association for Computational Linguistics: EMNLP 2023, Singapore. Association for Computational Linguistics. Accepted, To Appear [Paper]{links} [bibtex]{@inproceedings{
+anonymous2023interpreting,
+title={Interpreting Indirect Answers to Yes-No Questions in Multiple Languages},
+author={Anonymous},
+booktitle={The 2023 Conference on Empirical Methods in Natural Language Processing},
+year={2023},
+}}
+
+
+
 
 2022
 ----

@@ -15,7 +15,7 @@ You can find my detailed CV [here](/files/Zijie_Wang_Resume.pdf)
 Education
 ======
 
-* Ph.D. in Computer Science, The University of Arizona, Aug. 2022 - Present
+* Ph.D. in Computer Science, University of Arizona, Aug. 2022 - Present
 * Ph.D. in Computer Science, Arizona State University, Jan. 2022 - Aug. 2022 (transferred)
 * M.S. in Computer Science, Arizona State University, Aug. 2019 - Dec. 2021
 * B.E. in Computer Science and Technology, Beijing Information Science & Technology University, Sept. 2015 - June 2019
@@ -30,9 +30,7 @@ Experience
   * Natural Language Processing
   * Supervisor: Dr. Eduardo Blanco
 
-
 * Research Assistant, June 2020 - June 2021, at ASU   
-  * Master's thesis
-  
+   
 
 
