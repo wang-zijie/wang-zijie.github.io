@@ -16,6 +16,6 @@ I am a second-year PhD student majoring in Computer Science at the University of
 News
 ======
 
-* Oct. 2023: One paper accepted to EMNLP 2023 findings. [paper]{links}
-* Aug. 2022: I transferred to University of Arizona with my advisor to continue my PhD.
+* October 2023: One paper accepted to EMNLP 2023 findings. [arXiv link](https://arxiv.org/abs/2310.13290)
+* Auguest 2022: I transferred to University of Arizona with my advisor to continue my PhD.
 
