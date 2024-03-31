@@ -21,12 +21,15 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 Conference publications
 =====
 
+
+2024
+----
+**Zijie Wang**, Farzana Rashid, Eduardo Blanco. Interpreting answers to yes-no questions in dialogues from multiple domains. To be appear in NAACL 2024 Findings
+
 2023
 ----
 
-**Zijie Wang** , Md Mosharaf Hossain, Shivam Mathur, Terry Cruz Melo, Kadir Bulut Ozler, Keun Hee Park, Jacob Quintero, MohammadHossein Rezaei, Shreya Nupur Shakya, Md Nayem Uddin, and Eduardo Blanco. 2023. Interpreting Indirect Answers to Yes-No Questions in Multiple Languages. In Findings of the Association for Computational Linguistics: EMNLP 2023, Singapore. Association for Computational Linguistics. Accepted, To Appear [arXiv link](https://arxiv.org/abs/2310.13290)
-
-
+**Zijie Wang**, Md Hossain, Shivam Mathur, Terry Melo, Kadir Ozler, Keun Park, Jacob Quintero, MohammadHossein Rezaei, Shreya Shakya, Md Uddin, and Eduardo Blanco. 2023. Interpreting Indirect Answers to Yes-No Questions in Multiple Languages. In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 2210–2227, Singapore. Association for Computational Linguistics. [link](https://aclanthology.org/2023.findings-emnlp.146/)
 
 
 2022
@@ -39,8 +42,8 @@ Lixi Zhou, Arindam Jain, **Zijie Wang**, Amitabh Das, Yingzhen Yang, and Jia Zou
 
 **Zijie Wang**, Lixi Zhou, and Jia Zou. Integration of fast-evolving data sources using a deep learning approach. In Software Foundations for Data Interoperability and Large Scale Graph Data Analytics, pages 172–186. Springer, 2020 [Paper](http://www.prg.nii.ac.jp/projects/biscuits/fourth-workshop/papers/Wang.pdf)
 
-
+<!-- 
 Preprints
 =====
 
-**Zijie Wang**, Lixi Zhou, Amitabh Das, Valay Dave, Zhanpeng Jin, and Jia Zou. Survive the schema changes: Integration of unmanaged data using deep learning. arXiv preprint arXiv:2010.07586, 2020 [arXiv](https://arxiv.org/pdf/2010.07586.pdf)
+**Zijie Wang**, Lixi Zhou, Amitabh Das, Valay Dave, Zhanpeng Jin, and Jia Zou. Survive the schema changes: Integration of unmanaged data using deep learning. arXiv preprint arXiv:2010.07586, 2020 [arXiv](https://arxiv.org/pdf/2010.07586.pdf) -->

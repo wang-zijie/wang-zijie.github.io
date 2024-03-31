@@ -16,6 +16,7 @@ I am a second-year PhD student majoring in Computer Science at the University of
 News
 ======
 
-* October 2023: One paper accepted to EMNLP 2023 findings. [arXiv link](https://arxiv.org/abs/2310.13290)
-* Auguest 2022: I transferred to University of Arizona with my advisor to continue my PhD.
+* March 2024: One paper accepted to NAACL 2024 findings. 
+* October 2023: One paper accepted to EMNLP 2023 findings. [link](https://aclanthology.org/2023.findings-emnlp.146/)
+
 
