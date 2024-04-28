@@ -24,13 +24,12 @@ Conference publications
 
 2024
 ----
-**Zijie Wang**, Farzana Rashid, Eduardo Blanco. Interpreting answers to yes-no questions in dialogues from multiple domains. To be appear in NAACL 2024 Findings
+**Zijie Wang**, Farzana Rashid, Eduardo Blanco. Interpreting answers to yes-no questions in dialogues from multiple domains. To appear at NAACL 2024 Findings. [arxiv link](https://arxiv.org/abs/2404.16262)
 
 2023
 ----
 
 **Zijie Wang**, Md Hossain, Shivam Mathur, Terry Melo, Kadir Ozler, Keun Park, Jacob Quintero, MohammadHossein Rezaei, Shreya Shakya, Md Uddin, and Eduardo Blanco. 2023. Interpreting Indirect Answers to Yes-No Questions in Multiple Languages. In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 2210–2227, Singapore. Association for Computational Linguistics. [link](https://aclanthology.org/2023.findings-emnlp.146/)
-
 
 2022
 ----

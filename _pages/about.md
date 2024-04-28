@@ -16,7 +16,7 @@ I am a second-year PhD student majoring in Computer Science at the University of
 News
 ======
 
-* March 2024: One paper accepted to NAACL 2024 findings. 
-* October 2023: One paper accepted to EMNLP 2023 findings. [link](https://aclanthology.org/2023.findings-emnlp.146/)
+* March 2024: Our paper titled **Interpreting Answers to Yes-No Questions in Dialogues from Multiple Domains** has been accepted to NAACL 2024 findings. [arxiv link](https://arxiv.org/abs/2404.16262)
+* October 2023: One paper accepted to EMNLP 2023 findings. [paper link](https://aclanthology.org/2023.findings-emnlp.146/)
 
 
