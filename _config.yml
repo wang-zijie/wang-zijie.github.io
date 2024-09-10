@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=g6wwJ6YAAAAJ&hl=en&authuser=2&oi=ao"
-  email            :  "emailto:zijiewang@arzona.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            :  "zijiewang AT arizona.edu"
+  semanticscholar  : "https://www.semanticscholar.org/author/Zijie-Wang/2117423776"
   uri              :
   bitbucket        :
   codepen          :

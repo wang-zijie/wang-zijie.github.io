@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 
-I am a second-year PhD student majoring in Computer Science at the University of Arizona, advised by [Dr. Eduardo Blanco](https://eduardoblanco.github.io/). My research interests are broadly in the area of Natural Language Understanding, with a specific focus on Question Answering. Please refer to my publication list for my recent works.
+I am a third-year PhD student majoring in Computer Science at the University of Arizona, advised by [Dr. Eduardo Blanco](https://eduardoblanco.github.io/). My research interests are broadly in the area of Natural Language Understanding, including Question Answering and LLM reasoning. Please refer to my publication list for my recent works.
 
 
 
 News
 ======
 
-* March 2024: Our paper titled **Interpreting Answers to Yes-No Questions in Dialogues from Multiple Domains** has been accepted to NAACL 2024 findings. [arxiv link](https://arxiv.org/abs/2404.16262)
-* October 2023: One paper accepted to EMNLP 2023 findings. [paper link](https://aclanthology.org/2023.findings-emnlp.146/)
+* March 2024: Our paper **Interpreting Answers to Yes-No Questions in Dialogues from Multiple Domains** has been accepted to NAACL 2024 findings. [link](https://aclanthology.org/2024.findings-naacl.136/)
+* October 2023: Our papaer **Interpreting Indirect Answers to Yes-No Questions in Multiple Languages** has been accepted to EMNLP 2023 findings. [link](https://aclanthology.org/2023.findings-emnlp.146/)
 
 
