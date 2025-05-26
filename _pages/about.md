@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a four-year PhD candidate majoring in Computer Science at the University of Arizona, advised by [Dr. Eduardo Blanco](https://eduardoblanco.github.io/). I am affliated with [Computational Language Understanding (CLU) Lab](https://clulab.org/), where all NLP researchers at UofA resides.  
+I am a four-year PhD candidate majoring in Computer Science at the University of Arizona, advised by [Dr. Eduardo Blanco](https://eduardoblanco.github.io/). I am affliated with [Computational Language Understanding (CLU) Lab](https://clulab.org/), where most of the NLP researchers at UofA reside.  
  My research interests are broadly in the area of Natural Language Understanding, including Question Answering and LLM reasoning. Please refer to my publication list for my recent works.
 
 * Question Answering: I am interested in all kinds of questions that are asked by real humans---realizing that real human questions are much more interesting (and more challenging)! As an example, I have been worked on understanding indirect answers to yes-no questions in dialogue---people do not like to say *yes* or *no* to those questions.
