@@ -22,9 +22,15 @@ Education
 
 Experience
 ======
-* Research Assistant, Aug. 2022 - Present, at UofA
+
+* PhD Research Intern, May 2025 - Present, at Dolby Laboratories
+  * Multi-modal (Audio + Video + Text) understanding
+
+
+* Research Assistant, Aug. 2022 - May 2025, at UofA
   * Natural Language Processing
   * Supervisor: Dr. Eduardo Blanco
+
 
 * Research Assistant, Jan. 2022 - Aug. 2022, at ASU
   * Natural Language Processing
