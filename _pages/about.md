@@ -19,6 +19,7 @@ I am a fourth-year PhD candidate majoring in Computer Science at the University 
 
 News
 ======
+* August 2025: Glad to share that Our paper **Identifying and Answering Questions with False Assumptions: An Interpretable Approach** has been accepted to EMNLP 2025 main conference. [link](https://arxiv.org/abs/2508.15139)
 * August 2025: Excited to share that I will join [AWS](https://aws.amazon.com/) this Fall as an Applied Scientist Intern. I will be based in Seattle, WA.
 * May 2025: Moved to Atlanta, GA for my summer intern. Cannot wait to start working on some really cool research at Dolby.
 * March 2025: Excited to share that I will join [Dolby Advanced Technology Group (ATG)](https://www.dolby.com/) this Summer as a PhD Research Intern. I will work on some interesting projects related to multi-modal understanding and reasoning.
