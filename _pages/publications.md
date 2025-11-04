@@ -21,6 +21,9 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 Conference publications
 =====
 
+2025
+----
+**Zijie Wang** and Eduardo Blanco. 2025. Identifying and Answering Questions with False Assumptions: An Interpretable Approach. In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, pages 24080–24098, Suzhou, China. Association for Computational Linguistics.[(link)](https://aclanthology.org/2025.emnlp-main.1228/)
 
 2024
 ----
